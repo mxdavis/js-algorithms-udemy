@@ -1,0 +1,8 @@
+{
+  "name": "js-algorithms-udemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mxdavis/js-algorithms-udemy.git",
+  "author": "mxdavis <md01@me.com>",
+  "license": "MIT"
+}
